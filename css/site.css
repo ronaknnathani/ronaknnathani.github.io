@@ -434,7 +434,7 @@ hr.gradb {
 }
 
 section {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
     section h2.section-heading {
@@ -462,12 +462,6 @@ section {
         font-size: 20px;
         color: #ff9800;
     }
-
-@media(min-width:768px) {
-    section {
-        padding: 150px 0;
-    }
-}
 
 .service-heading {
     color: #656060;
