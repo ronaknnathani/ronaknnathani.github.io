@@ -1,5 +1,11 @@
 ﻿/*Ronak Nathani*/
 
+@media(max-width: 768px){
+    .bottomPadding{
+    padding-bottom:80px;
+}
+}
+
 body {
     overflow-x: hidden;
     font-family: 'Open Sans',sans-serif;
@@ -203,6 +209,7 @@ fieldset[disabled] .btn-primary.active {
         font-size: 50px;
         font-weight: 300;
         color: #333;
+        line-height: 50px;
     }
 
         .navbar-default .navbar-brand:hover,
@@ -1920,12 +1927,28 @@ section.terms {
     }
 }
 
-.helpareascol {
-    padding:60px 20px;
-    margin-bottom: 1px;
-    /*box-shadow: 0 0 10px #ccc;*/
-}
+    .helpareascol {
+        padding:60px 20px;
+        margin-bottom: 1px;
+    }
 
+    .helpareascol-border{
+        border-right: 1px solid #ccc;
+    }
+
+
+@media(min-width:992px){
+    .helpareascol {
+        padding:60px 20px;
+        margin-bottom: 1px;
+        /*box-shadow: 0 0 10px #ccc;*/
+    }
+
+    .helpareascol-border{
+        border-right: 0px;
+    }
+
+}
 .logos img {
     width: 80%;
 }
@@ -2050,9 +2073,7 @@ section.terms {
     -o-animation: fadein 1s linear 30s forwards; /*Opera*/
 }
 
-.bottomspace {
-    margin-bottom: 20px;
-}
+
 
 .bloghead {
     border: 1px solid #43aaa3;
@@ -2326,8 +2347,8 @@ section.terms {
 @media(min-width:768px) {
     .profile-hover-test {
         position: absolute;
-        height: 115px;
-        width: 343px;
+        height: 203px;
+        width: 375px;
         margin: auto;
         opacity: 0;
         background: rgba(5, 71, 96, 1);
@@ -2342,8 +2363,8 @@ section.terms {
 @media(min-width:992px) {
     .profile-hover-test {
         position: absolute;
-        height: 155px;
-        width: 210px;
+        height: 203px;
+        width: 323px;
         margin: auto;
         opacity: 0;
         background: rgba(5, 71, 96, 1);
