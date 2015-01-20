@@ -1,98 +1,9 @@
 ﻿/*Ronak Nathani*/
-/*
-#logo {
-    
-    padding:10px;
-    font-size: 36px;
-    -webkit-transition: all .4s ease-out;
-    -moz-transition: all .4s ease-out;
-    -o-transition: all .4s ease-out;
-    transition: all .4s ease-out;
-    -ms-filter: alpha(opacity=0);
-    filter: alpha(opacity=0);
-}
 
-#logo div a{
-    -webkit-transition: all .5s ease-out;
-    -moz-transition: all .5s ease-out;
-    -o-transition: all .5s ease-out;
-    transition: all .5s ease-out;
-    -ms-filter: alpha(opacity=0);
-    filter: alpha(opacity=0);
-    -webkit-transform: translate3d(-10px,0,0);
-    -moz-transform: translate3d(-10px,0,0);
-    -ms-transform: translate3d(-10px,0,0);
-    transform: translate3d(-10px,0,0);
-    color:#333;
-    opacity:1;
-    display:block;
-    float:left;
-    text-decoration: none;
-}
-
-#logo .first {
-    top:25px;
-    left:120px;
-    height:50px;
-    position:absolute;
-}
-
-#logo .last {
-    top:25px;
-    left:100px;
-    height:50px;
-    position:absolute;
-}
-
-#logo:hover .first a, #logo:hover .last a  {
-    opacity:0;
-}
-
-#logo .one {
-    -webkit-transition: all .1s ease;
-    -moz-transition: all .1s ease;
-    -o-transition: all .1s ease;
-    transition: all .1s ease;
-}
-
-
-#logo .two {
-    -webkit-transition: all .3s ease;
-    -moz-transition: all .3s ease;
-    -o-transition: all .3s ease;
-    transition: all .3s ease;
-}
-
-#logo .three {
-    -webkit-transition: all .5s ease;
-    -moz-transition: all .5s ease;
-    -o-transition: all .5s ease;
-    transition: all .5s ease;
-}
-
-#logo .four {
-    -webkit-transition: all .7s ease;
-    -moz-transition: all .7s ease;
-    -o-transition: all .7s ease;
-    transition: all .7s ease;
-}
-
-#logo .five {
-    -webkit-transition: all .9s ease;
-    -moz-transition: all .9s ease;
-    -o-transition: all .9s ease;
-    transition: all .9s ease;
-}
-*/
 .social-buttons{
     font-size:48px;
     text-align: center;
 }
-
-/*.social-buttons:hover{
-    font-size:48px;
-    text-align: center;
-}*/
 
 .gmail{
     color:#333;
